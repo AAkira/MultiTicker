@@ -1,0 +1,15 @@
+*.o
+*.a
+*.so
+
+_obj
+_test
+.idea
+
+*.exe
+*.test
+*.prof
+.DS_Store
+
+vendor/
+bin/
